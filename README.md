@@ -4,7 +4,7 @@
 
 ### Olá, humanos!
 
-Me chamo Beatriz Miranda, tenho 25 anos, moro na Baixada Fluminense/RJ, estou em processo de transição de carreira, amo ciência e arte e tenho uma paixão enorme pro jogos!
+Me chamo Beatriz Miranda, tenho 25 anos, moro na Baixada Fluminense/RJ, estou em processo de transição de carreira, amo ciência e arte e tenho uma paixão enorme por jogos!
 Já tive experiência no setor de ensino e com laboratório e dados quando cursei Licenciatura em Física, e foi aí que descobri que se eu soubesse automatizar processos, eu sofreria menos com os relatórios 🤪
 
 
