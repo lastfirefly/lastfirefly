@@ -16,8 +16,6 @@ Já tive experiência no setor de ensino e com laboratório e dados quando curse
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lastfirefly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/lastfirefly/lastfirefly/blob/output/github-contribution-grid-snake.svg)
-
 ## ***Tecnologias e ferramentas***
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="70" height="70" />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="70" height="70" />
