@@ -6,7 +6,7 @@ Me chamo Beatriz Miranda, tenho 25 anos, moro na Baixada Fluminense/RJ e faço C
 Já tive experiência no setor de ensino e com laboratório e dados quando cursei Licenciatura em Física, e foi aí que descobri que se eu soubesse automatizar processos, eu sofreria menos com os relatórios 🤪
 
 ## *Redes sociais e contatos*
-<a href="https://instagram.com/lastfirefly" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:contato@beatrizmmiranda@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/outlook-1167fa?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/trizmmiranda/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linkedin-1167fa?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/trixie.momi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:contato@beatrizmmiranda@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/outlook-1167fa?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/trizmmiranda/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linkedin-1167fa?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Aproveitamento
 
